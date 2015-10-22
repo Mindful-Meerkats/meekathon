@@ -1,6 +1,6 @@
 # Meekathon 1
 ## Evaluation of survey day 0
-* 27 participants filled in the survey of day 0.
+* 27 participants (27/44= 61%) filled in the survey of day 0.
 * Average age was 25.52.
 * 12 participants were male. 14 were female.
 * 15 participants were students. 9 were working. 3 referred to living life in general.
