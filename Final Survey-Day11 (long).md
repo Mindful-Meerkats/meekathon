@@ -1,6 +1,11 @@
 ## "Did you divert from your usual routine for the sake of fulfilling your challenge? Would you have led your day the same way you did without the challenge?                                        
 ## Where should we strive to? Next Angry Birds, next Instagram, next Tinder, next SuperBetter, next Tamagotchi? 					
-## How important were the following elements to you?	Narrative Diversity	Community	Brand	Avatar
+## How important were the following elements to you?	
+- Narrative 
+- Diversity	
+- Community	
+- Brand	
+- Avatar
 ## Main incentive to participate?	Friendship to Creators	Friendliness	Seeking Awareness	Happiness	Curiosity
 ## Main personal outcome	Awareness	Nothing	Entertainment	Fun	
 ## Do what extent did you find participating in the Meekathon...?	
