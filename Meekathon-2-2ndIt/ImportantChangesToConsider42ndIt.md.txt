@@ -1,0 +1,1 @@
+*Color Change for Group A to not have collision
