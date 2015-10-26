@@ -5,7 +5,7 @@ The short version. For the long version see [Final Survey-Day11 (long).md](Final
 ## Introduction
 Dear Meerkat,
 
-Thank you for your continous efforts. You have made it up to the finishing line 
+Thank you for your continuous efforts. You have reached the finish line 
 
 You can be proud of yourself! :)
 
